@@ -1,5 +1,5 @@
 # pathfinding_visualizer
-welcome to the pathfinding visulaizer
+welcome to the pathfinding visualizer.This project is made using VueJs. The project implements Dijktras Algorithm to find the shortest path between any two points.
 ## Project setup
 ```
 npm install
