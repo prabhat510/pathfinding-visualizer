@@ -1,5 +1,5 @@
 # pathfinding_visualizer
-
+welcome to the pathfinding visulaizer
 ## Project setup
 ```
 npm install
